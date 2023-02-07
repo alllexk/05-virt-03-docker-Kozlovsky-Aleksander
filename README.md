@@ -24,3 +24,4 @@ Gitlab сервер для реализации CI/CD процессов и пр
 
 # 3
 
+![nginx](https://github.com/alllexk/DEVSYS23-05-virt-03-docker-Kozlovsky-Aleksander/blob/a6e0e010959d1d52a1ad854769683c433c79ddf0/images/3.png)
